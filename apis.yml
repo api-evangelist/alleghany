@@ -1,7 +1,12 @@
 aid: alleghany
-url: https://raw.githubusercontent.com/api-evangelist/alleghany/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/alleghany/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.alleghany.com
+description: >-
+  Alleghany is a holding company engaged in property and casualty reinsurance and
+  insurance through its subsidiaries, with additional investments in non-financial
+  businesses.
