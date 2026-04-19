@@ -1,11 +1,13 @@
 # Alleghany
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Alleghany.
+Alleghany Corporation was a holding company engaged in property and casualty reinsurance and insurance through its subsidiaries, with additional investments in non-financial businesses.
 
-## APIs
+Alleghany's key subsidiaries included Transatlantic Holdings (TransRe), a leading global reinsurer; RSUI Group, which underwrites wholesale specialty insurance coverages; and CapSpecialty, an underwriter of specialty casualty and surety insurance.
 
-No APIs have been documented yet. Check back for updates.
+In October 2022, Berkshire Hathaway completed its $11.6 billion acquisition of Alleghany Corporation, adding $14 billion in insurance float and approximately $8.8 billion in gross premiums written. Alleghany now operates as a wholly-owned subsidiary of Berkshire Hathaway.
 
-## Properties
+As a holding company focused on reinsurance and insurance operations, Alleghany did not maintain a public developer API program.
+
+## Links
 
 - [Website](https://www.alleghany.com)
