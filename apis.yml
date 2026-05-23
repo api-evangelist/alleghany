@@ -1,27 +1,80 @@
 aid: alleghany
+name: Alleghany Corporation
+description: >-
+  Alleghany Corporation is a holding company engaged in property and casualty
+  reinsurance and insurance through its subsidiaries, with additional
+  investments in non-financial businesses held via Alleghany Capital. Founded
+  in 1929 by railroad entrepreneurs Oris and Mantis Van Sweringen, the company
+  transitioned over decades from rail holdings into specialty insurance and
+  reinsurance, and is headquartered at One Rockefeller Plaza in New York City.
+  Its principal insurance subsidiaries are Transatlantic Reinsurance Company
+  (TransRe), a global reinsurer founded in 1977 with roughly 600 employees
+  across 23 offices and more than $40 billion in claims paid to date; RSUI
+  Group, a wholesale excess and surplus (E&S) underwriter spanning Property,
+  Casualty, Professional Liability, Management Liability, and Binding
+  Authority lines; and CapSpecialty, a specialty casualty and surety
+  underwriter. Alleghany Capital holds non-insurance operating companies
+  including toy and collectibles maker Jazwares (Squishmallows, Pokémon,
+  Roblox, Fortnite licensed lines). On March 21, 2022, Berkshire Hathaway
+  announced an $11.6 billion all-cash acquisition of Alleghany at $848.02 per
+  share, which closed in October 2022. Alleghany now operates as a
+  wholly-owned subsidiary of Berkshire Hathaway, contributing approximately
+  $8.8 billion in 2025 gross premiums written and roughly $14 billion in
+  insurance float to the parent. As a holding company whose operating units
+  distribute exclusively through reinsurance intermediaries, wholesale
+  brokers, and independent agents, Alleghany and its subsidiaries do not
+  publish a developer portal, OpenAPI specifications, SDKs, or any other
+  machine-readable API artifacts; the only digital surfaces exposed publicly
+  are gated broker and agent login portals.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/alleghany/refs/heads/main/apis.yml
-modified: '2026-04-19'
-description: >-
-  Alleghany Corporation was a holding company engaged in property and casualty
-  reinsurance and insurance through its subsidiaries, with additional
-  investments in non-financial businesses. Alleghany's key subsidiaries
-  included Transatlantic Holdings (TransRe), a leading global reinsurer; RSUI
-  Group, which underwrites wholesale specialty insurance coverages; and
-  CapSpecialty, an underwriter of specialty casualty and surety insurance. In
-  October 2022, Berkshire Hathaway completed its $11.6 billion acquisition of
-  Alleghany Corporation, adding $14 billion in insurance float and approximately
-  $8.8 billion in gross premiums written. Alleghany now operates as a
-  wholly-owned subsidiary of Berkshire Hathaway. As a holding company focused
-  on reinsurance and insurance operations, Alleghany did not maintain a public
-  developer API program.
-apis: []
-common:
-  - type: Website
-    url: https://www.alleghany.com
 tags:
   - Insurance
   - Reinsurance
   - Property And Casualty
+  - Specialty Insurance
+  - Excess And Surplus
+  - Surety
   - Financial Services
   - Holding Company
+  - Berkshire Hathaway Subsidiary
+  - Toys And Collectibles
+created: '2026-04-19'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.alleghany.com
+  - type: ContactUs
+    url: https://www.alleghany.com/contact-us/
+  - type: ParentCompany
+    url: https://www.berkshirehathaway.com
+  - type: Subsidiary
+    name: TransRe (Transatlantic Reinsurance Company)
+    url: https://www.transre.com
+  - type: Subsidiary
+    name: RSUI Group
+    url: https://www.rsui.com
+  - type: Subsidiary
+    name: CapSpecialty
+    url: https://www.capspecialty.com
+  - type: Subsidiary
+    name: Jazwares
+    url: https://www.jazwares.com
+  - type: AgentLogin
+    name: RSUI Broker Portal
+    url: https://www.rsui.com/brokers/
+  - type: PressRelease
+    name: Berkshire Hathaway Acquires Alleghany (Mar 21, 2022)
+    url: https://www.berkshirehathaway.com/news/MAR2122.pdf
+  - type: GitHubOrganization
+    name: TransRe (empty - 0 public repos)
+    url: https://github.com/TransRe
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
