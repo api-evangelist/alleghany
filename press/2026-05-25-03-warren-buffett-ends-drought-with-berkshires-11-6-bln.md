@@ -1,7 +1,9 @@
 ---
 title: Warren Buffett ends drought with Berkshire's $11.6 bln ...
 url: https://www.reuters.com/business/finance/berkshire-hathaway-acquire-alleghany-116-bln-deal-2022-03-21/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Alleghany" press release artificial intelligence'
 position: 3
 source: serpapi-google

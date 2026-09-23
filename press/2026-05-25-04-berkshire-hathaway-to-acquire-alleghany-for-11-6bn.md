@@ -1,7 +1,9 @@
 ---
 title: Berkshire Hathaway to acquire Alleghany for $11.6bn
 url: https://www.reinsurancene.ws/berkshire-hathaway-to-acquire-alleghany-for-11-6bn/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Alleghany" press release artificial intelligence'
 position: 4
 source: serpapi-google

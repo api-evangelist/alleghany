@@ -1,7 +1,9 @@
 ---
 title: Familiarity, similarity driving Berkshire's Alleghany deal
 url: https://www.spglobal.com/market-intelligence/en/news-insights/articles/2022/3/familiarity-similarity-driving-berkshire-s-alleghany-deal-69456428
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Alleghany" press release artificial intelligence'
 position: 1
 source: serpapi-google
