@@ -1,5 +1,5 @@
 aid: alleghany
-name: Alleghany Corporation
+name: Alleghany
 description: >-
   Alleghany Corporation is a holding company engaged in property and casualty
   reinsurance and insurance through its subsidiaries, with additional
@@ -61,7 +61,7 @@ tags:
   - Specialty Insurance
   - Excess and Surplus
   - Surety
-  - Financial-Services
+  - Financial Services
   - Holding Company
   - Berkshire Hathaway Subsidiary
   - Toys And Collectibles
@@ -78,6 +78,7 @@ tags_raw:
   - Berkshire Hathaway Subsidiary
   - Toys And Collectibles
   - Fortune 500
+  - Financial-Services
 created: '2026-04-19'
 modified: '2026-05-23'
 specificationVersion: '0.23'
@@ -117,3 +118,4 @@ maintainers:
     email: info@apievangelist.com
 x-parent: berkshire-hathaway
 x-relationship: acquisition
+x-legal-name: Alleghany Corporation
