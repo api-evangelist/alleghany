@@ -1,4 +1,4 @@
-# Alleghany Corporation (alleghany)
+# Alleghany
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,83 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alleghany Corporation is a holding company engaged in property and casualty reinsurance and insurance through its subsidiaries, with additional investments in non-financial businesses held via Alleghany Capital. Founded in 1929 by railroad entrepreneurs Oris and Mantis Van Sweringen, the company transitioned over decades from rail holdings into specialty insurance and reinsurance, and is headquartered at One Rockefeller Plaza in New York City.
+Alleghany Corporation is a holding company engaged in property and casualty reinsurance and insurance through its subsidiaries, with additional investments in non-financial businesses held via Alleghany Capital. Founded in 1929 by railroad entrepreneurs Oris and Mantis Van Sweringen, the company transitioned over decades from rail holdings into specialty insurance and reinsurance, and is headquartered at One Rockefeller Plaza in New York City. Its principal insurance subsidiaries are Transatlantic Reinsurance Company (TransRe), a global reinsurer founded in 1977 with roughly 600 employees across 23 offices and more than $40 billion in claims paid to date; RSUI Group, a wholesale excess and surplus (E&S) underwriter spanning Property, Casualty, Professional Liability, Management Liability, and Binding Authority lines; and CapSpecialty, a specialty casualty and surety underwriter. Alleghany Capital holds non-insurance operating companies including toy and collectibles maker Jazwares (Squishmallows, Pokémon, Roblox, Fortnite licensed lines). On March 21, 2022, Berkshire Hathaway announced an $11.6 billion all-cash acquisition of Alleghany at $848.02 per share, which closed in October 2022. Alleghany now operates as a wholly-owned subsidiary of Berkshire Hathaway, contributing approximately $8.8 billion in 2025 gross premiums written and roughly $14 billion in insurance float to the parent. As a holding company whose operating units distribute exclusively through reinsurance intermediaries, wholesale brokers, and independent agents, Alleghany and its subsidiaries do not publish a developer portal, OpenAPI specifications, SDKs, or any other machine-readable API artifacts; the only digital surfaces exposed publicly are gated broker and agent login portals.
 
-Its principal insurance subsidiaries are Transatlantic Reinsurance Company (TransRe), a global reinsurer founded in 1977 with roughly 600 employees across 23 offices and more than $40 billion in claims paid to date; RSUI Group, a wholesale excess and surplus (E&S) underwriter spanning Property, Casualty, Professional Liability, Management Liability, and Binding Authority lines; and CapSpecialty, a specialty casualty and surety underwriter. Alleghany Capital holds non-insurance operating companies including toy and collectibles maker Jazwares (Squishmallows, Pokémon, Roblox, and Fortnite licensed lines).
+**Areas:** Insurance · Reinsurance · Property and Casualty · Specialty Insurance · Excess and Surplus · Surety · Financial Services · Holding Company · Berkshire Hathaway Subsidiary · Toys And Collectibles · Fortune 500
 
-On March 21, 2022, Berkshire Hathaway announced an $11.6 billion all-cash acquisition of Alleghany at $848.02 per share, which closed in October 2022. Alleghany now operates as a wholly-owned subsidiary of Berkshire Hathaway, contributing approximately $8.8 billion in 2025 gross premiums written and roughly $14 billion in insurance float to the parent.
+## Alleghany on APIs.io
 
-**URL:** [Visit APIs.yml URL](https://raw.githubusercontent.com/api-evangelist/alleghany/refs/heads/main/apis.yml)
+Everything profiled for Alleghany is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alleghany/](https://apis.io/providers/alleghany/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+### Published properties
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Tags
+#### Security (1)
 
-- Insurance, Reinsurance, Property And Casualty, Specialty Insurance, Excess And Surplus, Surety, Financial Services, Holding Company, Berkshire Hathaway Subsidiary, Toys And Collectibles
+Authentication, trust centre, and vulnerability disclosure.
 
-## Timestamps
+- [Alleghany Domain Security](https://apis.io/security/alleghany/alleghany-domain-security/)
 
-- **Created:** 2026-04-19
-- **Modified:** 2026-05-23
+## Where to find this API
 
-## APIs
-
-No public APIs are documented. Alleghany Corporation is a holding company; its operating subsidiaries distribute exclusively through reinsurance intermediaries, wholesale brokers, and independent agents, and none of them publish a developer portal, OpenAPI specifications, SDKs, webhook catalogs, or any other machine-readable API artifacts.
-
-The only digital surfaces exposed publicly are gated broker and agent login portals (for example, the RSUI broker portal). The legacy RSUIOnline platform is being retired without a documented public replacement. TransRe maintains a GitHub organization at [`github.com/TransRe`](https://github.com/TransRe) (created February 2014) but it contains zero public repositories.
-
-Contributions welcome if any subsidiary publishes machine-readable API documentation in the future.
-
-## Subsidiaries
-
-| Subsidiary | Business | Acquired | Status |
-|---|---|---|---|
-| TransRe (Transatlantic Reinsurance Company) | Global treaty & facultative reinsurance | 2012 | Operating |
-| RSUI Group | Wholesale E&S specialty insurance | 2003 | Operating |
-| CapSpecialty | Specialty casualty & surety insurance | 2002 | Operating |
-| Jazwares | Toys, action figures, collectibles (Squishmallows) | Alleghany Capital portfolio | Operating |
-| Roundtable Re | Reinsurance | — | Historical / restructured |
-| Alleghany Capital | Middle-market non-insurance holdings | — | Operating |
-
-## Berkshire Hathaway Acquisition
-
-- **Announced:** March 21, 2022
-- **Closed:** October 2022
-- **Total value:** $11.6 billion all-cash
-- **Per share:** $848.02
-- **Float added to Berkshire:** ~$14 billion
-- **GPW contributed (2025):** ~$8.8 billion
-- **Press release:** [Berkshire Hathaway news, Mar 21, 2022](https://www.berkshirehathaway.com/news/MAR2122.pdf)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.alleghany.com)
-- [ContactUs](https://www.alleghany.com/contact-us/)
-- [ParentCompany — Berkshire Hathaway](https://www.berkshirehathaway.com)
-- [Subsidiary — TransRe](https://www.transre.com)
-- [Subsidiary — RSUI Group](https://www.rsui.com)
-- [Subsidiary — CapSpecialty](https://www.capspecialty.com)
-- [Subsidiary — Jazwares](https://www.jazwares.com)
-- [AgentLogin — RSUI Broker Portal](https://www.rsui.com/brokers/)
-- [GitHubOrganization — TransRe (0 public repos)](https://github.com/TransRe)
+- [GitHub](https://github.com/TransRe)
 
-## Pipeline Notes
+## API Evangelist rating
 
-This is an x-type `company` repo, but it sits at Tier 3 (`no-apis`) in the master network registry. The full 18-step pipeline was executed on 2026-05-23, with these dispositions:
+**Kin Score 3.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-- **update-apis (step 1)** — apis.yml fully written from first-wave WebFetch on alleghany.com, transre.com, rsui.com, capspecialty.com, jazwares.com, Wikipedia, plus GitHub org lookups.
-- **profile-github-org (step 2)** — No `alleghany` GitHub org. Only `TransRe` exists, with 0 public repos. Recorded as a single common GitHubOrganization property.
-- **discover-crds (step 3)** — N/A; no Kubernetes-native surface.
-- **update-artifacts through generate-finops (steps 4–16)** — Skipped. Per the run-pipeline skill's no-placeholder rule, no `openapi/`, `asyncapi/`, `json-schema/`, `json-structure/`, `json-ld/`, `examples/`, `rules/`, `capabilities/`, `vocabulary/`, `plans/`, `rate-limits/`, or `finops/` artifacts were generated because there is no public API surface across the holding company or any subsidiary.
-- **update-apis second pass (step 17)** — Re-confirmed no new artifacts to index.
-- **update-readme (step 18)** — This file.
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-## Maintainers
+**Agent readiness 0.0** — human-only
 
-**FN:** Kin Lane
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-**Email:** info@apievangelist.com
+**Regulatory alignment 5.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alleghany/](https://apis.io/providers/alleghany/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alleghany: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alleghany/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
